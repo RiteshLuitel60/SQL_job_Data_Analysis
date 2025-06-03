@@ -1,5 +1,4 @@
 # Introduction
-Here’s a simpler and clearer version:
 
 **📊 Exploring the Data Analyst Job Market**
 This project looks into the world of data analyst jobs spotlighting the highest-paying roles, most in-demand skills, and where strong demand meets great salaries in data analytics.
